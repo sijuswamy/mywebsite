@@ -1,0 +1,75 @@
+---
+about:
+  template: jolla
+  image-width: 8em
+  image-shape: round
+  id: about-block
+  image: "img/newphoto.jpg"
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/sijuswamy
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/siju-swamy/
+    - icon: envelope
+      text: Email
+      href: "mailto:sijuswamy@gmail.com"  
+---
+
+::: {#about-block}
+
+ Siju K S is a Faculty member in the Department of Mathematics, Saintgits College of Engineering (Autonomous), Kottayam. Handling classes in Pure, Applied, and Computational Mathematics. Presently serving as a Resource Person for the AIML Developer course offered by IIT Madras & Gov. of Kerala and an Institutional Mentor for `Intel-unnati programme`. Also serving as a Data Analytics consultant for Finance, Economics , Social Sciences and Engineering.
+
+As part of the professional life I have over 18 years of experience in Teaching that involved Undergraduate, Graduate, Post Graduate and Professional courses in Science , Engineering & Technology.
+
+During my stint at computational mathematics, I have trained through ToTs from prominent institutes like IIT(M), Intel , and ASDC (Gov.of Kerala) in modern technologies like Machine Learning, Deep Learning, Reinforcement Learning and Business Analytics. Currently handling skill training related to Research, AI and Analytics services of research scholars.
+
+I led many FDPs, STTPs, and training programmes in Applied Mathematics and Artificial Intelligence.
+
+## Research
+
+- Pursuing research in Artificial Intelligence under the Faculty of Amrita School of Artificial Intelligence at the Center of Excellence in Computational Engineering & Networking, Amrita Vishwa Vidyapeetham, Coimbatore.
+- Co-PI of the project _Meenachil River Water Quality Management & Flood Prediction Using AI_.
+
+## KEY ACHIEVEMENTS
+
+> Academic Area
+
+* First Rank in B.Sc (Mathematics) from Mahatma Gandhi University
+
+* Best Project Proposal Award from RACCS , St. Thomas College, Palai
+
+* Scholorship for Post Graduation in Mathematics from National Board for Higher Mathematics
+
+* Fourth Rank in M.Sc (Mathematics) from Mahatma Gandhi University
+
+* IUCEE certified teaching faculty through International Engineering Educators Certification Programme
+
+* Selected as a Resource person for AI& ML Developer Programme offered by Gov.of Kerala with the technical support of IIT, Madras.
+
+* Board of Studies Member (Industrial Expert), Assumption College, Changanachery (Autonomous) for AY 2023-2024 and 2024-2025.
+
+* Board of Studies Member (External Academic Expert), APJ Abdul Kalam Technological University, Thiruvananthapuram for AY 2024-2025.
+
+>Industial Training & Research
+
+* Institutional Mentor for `Intel-Unnati Programe`.
+
+* Program Manager, `Intel-Unnati Program`, Saintgits Group of Institutions.
+
+## Experience
+
+Saintgits | Faculty in Mathematics | July 2006 - present
+
+Kuriakose Elias College | Guest Lecturer | August 2004 - July 2006
+
+:::
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary"  role="button" target="_blank" style="padding: 15px 30px;">Internet is the biggest university for knowledge but not for a certificate</a>
+</div>
+```
+

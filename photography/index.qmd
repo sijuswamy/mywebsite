@@ -1,0 +1,23 @@
+---
+title: "ICT Activities"
+---
+
+Recent Works in Automation and Digital Content Development
+
+::: {layout-ncol=2}
+
+ * Web based Lab Manual for the course 20IMCAL204- Statistics Lab <https://bookdown.org/siju_swamy/Stat_Lab/>
+ * Dashboards for Research Data Analysis <https://sijuswamy.shinyapps.io/Arya_Decriptive_Dashboard/> (Sample)
+ * Automation of Student Satisfaction Survey data analysis (for IQAC)
+ * Random Exam Generation using question banks
+ * Certificate Generation suit 
+ * Course-outcome target fixation process automation and data analysis (for IQAC)
+
+:::
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary"  role="button" target="_blank" style="padding: 15px 30px;">Automation is the primary skillset for 2025 professional</a>
+</div>
+```
